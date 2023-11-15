@@ -1,0 +1,22 @@
+img{
+    width: 80%;
+    align-self: center;
+}
+.nav-text{
+    font-size: 3rem;
+}
+table{
+    font-size: 5rem;
+}
+.estudies-button{
+    font-size: 5rem; !important;
+}
+p{
+    font-size: 5rem;
+}
+.smaller-text{
+    font-size: 2rem;
+}
+.w-35{
+    width: 35%;
+}
